@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello, stranger
 
-<!--
-**edfloreshz/edfloreshz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I see you found my *GitHub*. This is where all my code lives, code that does not work quite yet... but it will someday. 
+- I like cats 🐈 
+- I practice archery every weekend 🏹
+- I'm learning Rust 🦀
 
-Here are some ideas to get you started:
+Anyway you can reach me at [Telegram](https://telegram.me/edfloreshz) if you want to send me your SSH keys and also follow me on [Twitter](https://twitter.com/edfloreshz) if you want to be up to date with whatever nonsense I tweet 🐦
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+``` rust
+print!("Feel free to explore!");
+```
