@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/edfloreshz/edfloreshz/master/header.png)
+
 # Hello, stranger
 
 I see you found my *GitHub*. This is where all my code lives, code that does not work quite yet... but it will someday. 
@@ -9,5 +11,5 @@ Anyway you can reach me at [Telegram](https://telegram.me/edfloreshz) if you wan
 
 
 ``` rust
-print!("Feel free to explore!");
+print!("Bye!");
 ```
