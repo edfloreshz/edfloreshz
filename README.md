@@ -2,7 +2,7 @@
 
 # Hello, stranger
 
-I see you found my *GitHub*. This is where all my code lives, code that does not work quite yet... but it will someday. 
+I see you found my *GitHub*. This is where all my code lives, code that does not quite work yet... but it will someday. 
 - I like cats 🐈 
 - I practice archery every weekend 🏹
 - I'm learning Rust 🦀
