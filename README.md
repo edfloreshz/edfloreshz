@@ -1,4 +1,4 @@
-# Hello, I'm Eddy ![badge](https://www.codewars.com/users/edfloreshz/badges/large)
+# ![badge](https://www.codewars.com/users/edfloreshz/badges/large)
 
 
 I see you found my *GitHub*. This is where all my code lives, code that does not quite work yet... but it will someday. 
