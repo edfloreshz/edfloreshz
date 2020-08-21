@@ -1,5 +1,5 @@
 # Hello, I'm Eddy
-![badge](https://www.codewars.com/users/edfloreshz/badges/small)
+![badge](https://www.codewars.com/users/edfloreshz/badges/micro)
 
 I see you found my *GitHub*. This is where all my code lives, code that does not quite work yet... but it will someday. 
 - I like cats 🐈 
