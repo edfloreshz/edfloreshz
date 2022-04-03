@@ -10,6 +10,7 @@ Here's some of the things I do:
 - 🎥 Video tutorials on [YouTube](https://www.youtube.com/channel/UCeGD_pFkPHeZ5R0s20XwgaQ)
 - ✍🏼 Articles about technology and programming on [Devloop](https://blog.edfloreshz.dev)
 - 🌎 Community organizing at [Devland](https://devland.edfloreshz.dev)
+- 💻 Projects and apps on [GitHub](https://edfloreshz.dev/projects/)
 
 
 You can reach me at [Telegram](https://telegram.me/edfloreshz), [Twitter](https://twitter.com/edfloreshz) 🐦 or via [email](mailto:edfloreshz@gmail.com).
