@@ -1,6 +1,8 @@
-Hello! 👋🏽
-
-My name is Eduardo, I’m a software engineer based in Mexico 🇲🇽
+<div align="center">
+  <h1>Eduardo Flores</h1>
+  <h3>🤓 Software Engineer &#8195;🌏&#8195; Sonora, Mexico 🇲🇽</h3><br>
+</div>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edfloreshz" alt="My most used programming languages">
 
 I’m trying make _my dream_ come true and work full time on open source to create tools, content and applications that benefit the community at large 🦀
 
@@ -14,3 +16,5 @@ Here's some of the things I do:
 
 
 You can reach me at [Telegram](https://telegram.me/edfloreshz), [Twitter](https://twitter.com/edfloreshz) 🐦 or via [email](mailto:edfloreshz@gmail.com).
+
+Read more on my [website →](https://edfloreshz.dev/about/).
