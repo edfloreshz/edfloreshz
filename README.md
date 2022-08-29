@@ -2,7 +2,6 @@
   <h1>Eduardo Flores</h1>
   <h3>🤓 Software Engineer &#8195; Sonora, Mexico 🌎</h3><br>
 </div>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edfloreshz" alt="My most used programming languages">
 
 I’m trying make _my dream_ come true and work full time on open source to create tools, content and applications that benefit the community at large 🦀
 
