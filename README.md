@@ -13,6 +13,10 @@ Here's some of the things I do:
 - 💻 Projects and apps on [GitHub](https://edfloreshz.dev/projects/)
 
 
-You can reach me at [Telegram](https://telegram.me/edfloreshz), [Twitter](https://twitter.com/edfloreshz) 🐦 or via [email](mailto:edfloreshz@gmail.com).
+You can reach me at 
+- [Telegram](https://telegram.me/edfloreshz) ✈️
+- [Mastodon](https://hachyderm.io/@edfloreshz) 🐘 
+- [Twitter](https://twitter.com/edfloreshz) 🐦
+- [Email](mailto:edfloreshz@gmail.com) 📫.
 
-Read more on my [website →](https://edfloreshz.dev/about/).
+Read more on my [website →](https://edfloreshz.dev/).
