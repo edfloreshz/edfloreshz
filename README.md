@@ -1,5 +1,4 @@
 <div align="center">
-  <h1> 🍾 Happy New Year 🥳 </h1><br>
   <h2>Eduardo Flores</h2>
   <h3>🤓 Software Engineer &#8195; Sonora, Mexico 🌎</h3><br>
 </div>
