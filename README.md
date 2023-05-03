@@ -10,13 +10,12 @@ Here's some of the things I do:
 - 🔴 Live streams on [Twitch](https://www.twitch.tv/edfloreshz)
 - 🎥 Video tutorials on [YouTube](https://www.youtube.com/channel/UCeGD_pFkPHeZ5R0s20XwgaQ)
 - ✍🏼 Articles about technology and programming on [Devloop](https://blog.edfloreshz.dev)
-- 💻 Projects and apps on [GitHub](https://edfloreshz.dev/projects/)
+- 💻 Projects and apps on [GitHub](https://github.com/edfloreshz?tab=repositories)
 
 
 You can reach me at 
 - [Telegram](https://telegram.me/edfloreshz) ✈️
 - [Mastodon](https://hachyderm.io/@edfloreshz) 🐘 
-- [Twitter](https://twitter.com/edfloreshz) 🐦
-- [Email](mailto:edfloreshz@gmail.com) 📫.
+- [Email](mailto:edfloreshz@proton.me) 📫.
 
 Read more on my [website →](https://edfloreshz.dev/).
