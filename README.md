@@ -15,6 +15,7 @@ Here's some of the things I do:
 
 You can reach me at 
 - [Telegram](https://telegram.me/edfloreshz) ✈️
+- [Matrix](https://matrix.to/#/@edfloreshz:matrix.org) 🕴️
 - [Mastodon](https://hachyderm.io/@edfloreshz) 🐘 
 - [Email](mailto:edfloreshz@proton.me) 📫.
 
