@@ -1,9 +1,8 @@
 <div align="center">
-  <h2>Eduardo Flores</h2>
-  <h3>🤓 Software Engineer &#8195; Sonora, Mexico 🌎</h3><br>
+  <img src="https://raw.githubusercontent.com/edfloreshz/edfloreshz/master/GitHub.png"/>
 </div>
 
-I’m trying make _my dream_ come true and work full time on open source to create tools, content and applications that benefit the community at large 🦀
+I’m trying to work full time on open source to create tools, content and applications that benefit the community at large 🦀
 
 Here's some of the things I do:
 
@@ -17,6 +16,8 @@ You can reach me at
 - [Telegram](https://telegram.me/edfloreshz) ✈️
 - [Matrix](https://matrix.to/#/@edfloreshz:matrix.org) 🕴️
 - [Mastodon](https://hachyderm.io/@edfloreshz) 🐘 
+- [Twitch](https://www.twitch.tv/edfloreshz/about) 🔴
+- [YouTube](https://www.youtube.com/channel/UCeGD_pFkPHeZ5R0s20XwgaQ) ▶️
 - [Email](mailto:edfloreshz@proton.me) 📫.
 
 Read more on my [website →](https://edfloreshz.dev/).
