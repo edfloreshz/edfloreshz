@@ -8,7 +8,7 @@ Here's some of the things I do:
 
 - 🔴 Live streams on [Twitch](https://www.twitch.tv/edfloreshz)
 - 🎥 Video tutorials on [YouTube](https://www.youtube.com/channel/UCeGD_pFkPHeZ5R0s20XwgaQ)
-- ✍🏼 Articles about technology and programming on [Devloop](https://blog.edfloreshz.dev)
+- ✍🏼 [Articles](https://edfloreshz.dev/posts/) about technology and programming.
 - 💻 Projects and apps on [GitHub](https://github.com/edfloreshz?tab=repositories)
 
 
