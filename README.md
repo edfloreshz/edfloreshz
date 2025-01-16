@@ -18,6 +18,6 @@ You can reach me at
 - [Mastodon](https://hachyderm.io/@edfloreshz) 🐘 
 - [Twitch](https://www.twitch.tv/edfloreshz/about) 🔴
 - [YouTube](https://www.youtube.com/channel/UCeGD_pFkPHeZ5R0s20XwgaQ) ▶️
-- [Email](mailto:edfloreshz@proton.me) 📫.
+- [Email](mailto:edfloreshz@gmail.com) 📫.
 
 Read more on my [website →](https://edfloreshz.dev/).
