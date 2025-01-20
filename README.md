@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/edfloreshz/edfloreshz/master/GitHub.png"/>
+  <img src="https://raw.githubusercontent.com/edfloreshz/edfloreshz/master/Header.png"/>
 </div>
 
 I’m trying to work full time on open source to create tools, content and applications that benefit the community at large 🦀
