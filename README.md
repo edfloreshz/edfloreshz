@@ -1,23 +1,13 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/edfloreshz/edfloreshz/master/Header.png"/>
-</div>
+![header-light.png](assets/header/header-light.png#gh-light-mode-only)
+![header-dark.png](assets/header/header-dark.png#gh-dark-mode-only)
 
-I’m trying to work full time on open source to create tools, content and applications that benefit the community at large 🦀
+I'm a Rust developer building tools for the Linux desktop.
 
-Here's some of the things I do:
+Reach me at:
 
-- 🔴 Live streams on [Twitch](https://www.twitch.tv/edfloreshz)
-- 🎥 Video tutorials on [YouTube](https://www.youtube.com/channel/UCeGD_pFkPHeZ5R0s20XwgaQ)
-- ✍🏼 [Articles](https://edfloreshz.dev/posts/) about technology and programming.
-- 💻 Projects and apps on [GitHub](https://github.com/edfloreshz?tab=repositories)
-
-
-You can reach me at 
-- [Telegram](https://telegram.me/edfloreshz) ✈️
+- [Signal](https://signal.me/#eu/3m0zzE4BULMlZvUaXGc2XxraJORnH1rYZCML91y1NLp5cuZRU-JGrao3hDa2uUS3) 🕴️
 - [Matrix](https://matrix.to/#/@edfloreshz:matrix.org) 🕴️
-- [Mastodon](https://hachyderm.io/@edfloreshz) 🐘 
-- [Twitch](https://www.twitch.tv/edfloreshz/about) 🔴
-- [YouTube](https://www.youtube.com/channel/UCeGD_pFkPHeZ5R0s20XwgaQ) ▶️
+- [Mastodon](https://hachyderm.io/@edfloreshz) 🐘
 - [Email](mailto:edfloreshz@gmail.com) 📫.
 
 Read more on my [website →](https://edfloreshz.dev/).
